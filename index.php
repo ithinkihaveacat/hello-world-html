@@ -10,7 +10,7 @@
 <link rel="canonical" href="https://slottpulsa.azurefd.net/" />
 <link rel="shortcut icon" href="https://ik.imagekit.io/ghost/favicon.png?updatedAt=1686808561336" sizes="16x16">
 <link href="https://slottpulsa.azurefd.net/" rel="dns-prefetch">
-<meta name="keywords" content="Slot Dana, Slot Dana, agen Slot Dana, situs Slot Dana, Slot Dana gacor, rtp Slot Dana gacor, Slot Dana terpercaya, Slot Dana 2023, daftar situs Slot Dana, akun Slot Dana, mpo, link Slot Dana, situs Slot Dana terbaru" />
+<meta name="keywords" content="slot pulsa, slot, slot pulsa 2023, mpo slot, slot pulsa terpercaya, situs slot, slot gacor, mpo gacor" />
 <meta name="google" content="notranslate" />
 <meta name="robots" content="index, follow" />
 <meta name="rating" content="general" />
