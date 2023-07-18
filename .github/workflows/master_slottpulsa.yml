@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'slottpulsa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_540FA36A8460486487225DFC2214613B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C50E6D9E3FF94CE6A197089DF835FAEB }}
           package: .
